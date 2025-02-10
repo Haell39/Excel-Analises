@@ -14,7 +14,10 @@ Repositório dedicado a análises de dados realizadas no Excel, abordando vendas
 
 - Análise de vendas por região e produto.  
 - Projeção de receita com base em períodos anteriores.  
-- Identificação de padrões e sazonalidade no consumo.  
+- Identificação de padrões e sazonalidade no consumo.
+- Dados sobre a tuberculose (TB) por país e ano
+- Análises estatísticas descritivas
+
 
 ## 📌 Como Contribuir  
 
