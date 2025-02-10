@@ -1,0 +1,1 @@
+#### O relatório encontra-se no proprio excel na aba ''Analysis''.
