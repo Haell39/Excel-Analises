@@ -1,6 +1,6 @@
 # 📊 Análises em Excel  
 
-Repositório dedicado a análises de dados realizadas no Excel, abordando vendas, tendências de mercado e outros insights relevantes.   
+Repositório dedicado a análises de dados realizadas no Excel, abordando vendas, tendências de mercado, doenças e outros insights interessantes.   
 
 ## 🛠 Ferramentas Utilizadas  
 
